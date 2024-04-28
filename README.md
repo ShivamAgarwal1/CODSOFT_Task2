@@ -1,1 +1,1 @@
-# CODSOFT_Task2
+This is the second task in CODSOFT internship on the role of java developer in which I have created a Word Counter which can easily counts the number of words in a given file or a sentence. It can also count the frequency of words in a given file.
